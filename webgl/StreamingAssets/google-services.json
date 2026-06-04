@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700851117231",
+    "project_id": "zombie-death-matters",
+    "storage_bucket": "zombie-death-matters.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700851117231:android:e786ff03cdb974c100485a",
+        "android_client_info": {
+          "package_name": "com.sabgames.zombiedeathmatters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD02AQ3_9KqVWMwWVuPPODidBl4H4hM8Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
